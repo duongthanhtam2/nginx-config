@@ -1,2 +1,1 @@
-sites-available/mine/*.conf
-nginx-dreamhost.conf
+sites-available/*.conf
