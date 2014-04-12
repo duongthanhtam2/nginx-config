@@ -1,1 +1,3 @@
-sites-available/*.conf
+sites-available/dr*
+sites-available/e*
+sites-available/s*
