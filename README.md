@@ -1,6 +1,6 @@
-# Synapticism's Nginx configuration file library
+# Nginx config library
 
-These is my personal library of Nginx configuration files. It is not for use by the general public.
+These is my personal library of [Nginx](http://wiki.nginx.org/Main) configuration files. It is not for general use.
 
 Based on modifications to:
 
